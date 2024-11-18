@@ -3,9 +3,9 @@
 
 实验内容：
 
-创建GitHub账号
-创建Repo
-基于MarkDown编写README.md
-提交代码
-Fork&Star Repo
-基于Repo改写main/test.py
+1.创建GitHub账号
+2.创建Repo
+3.基于MarkDown编写README.md
+4.提交代码
+5.Fork&Star Repo
+6.基于Repo改写main/test.py
